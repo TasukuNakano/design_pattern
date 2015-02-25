@@ -1,0 +1,2 @@
+# design_pattern
+Rubyによるデザインパターンの理解用リポジトリ
